@@ -15,3 +15,5 @@ If the issue creator has a good idea of how to fix the bug then can write the su
 
 ## Additional information
 Add any other Information worth noting here
+
+## Screenshots
